@@ -250,7 +250,7 @@ Base URL: `http://localhost:5011`
 
 ## 👤 Author
 
-**Ankit Pathak** — [github.com/ankitpathak62](https://github.com/ankitpathak62)
+**Navashree* —
 
 ---
 
